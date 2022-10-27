@@ -1,1 +1,1 @@
-<?php echo "change by dev"; ?>
+<?php echo "change by mobile"; ?>
