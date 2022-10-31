@@ -1,1 +1,2 @@
-<?php echo "one"; ?>
+<?php echo "change by qa"; ?>
+<?php echo "change by mobile"; ?>
